@@ -1,5 +1,5 @@
 #!/bin/bash
-#root@M3e.X..!?/.>#
+#Mr.Vampire>#
 
 # Variables
 b='\033[1m'
@@ -16,16 +16,14 @@ enda='\033[0m'
 blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
-spath="$( cd "$( dirname $0 )" && pwd )"
 
-figlet -f D3C  TEAM | lolcat
-
-echo -e  $white"_____________________________________________________________"
+echo -e  $red DARK $cyan 3XPLOIT $blue CYBER
+echo -e  $white"[]xxxxxxxxxxx[}ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ7" | lolcat
 echo -e  $white "Tools    : Find Tools $white         " |lolcat
-echo -e  $white "Creadby  : Mr.Vampire ># $white   " |lolcat
+echo -e  $white "Creadby  : Mr.Vampire  $white   " |lolcat
 echo -e  $white "Support  : MR.BL4CK_H4T10 $white " |lolcat
 echo -e  $white "Team     : DARK 3XPLOIT CYBER $white  " |lolcat
-echo -e  $white"———————————————————————————————————————————————————————"
+echo -e  $white"[]xxxxxxxxxxx[}ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ7" | lolcat
 
 ###################################################
 # CTRL + C
@@ -51,7 +49,7 @@ echo -e "2.  Admin-finder${endc}";
 echo -e "3.  Metasploit${endc}";
 echo -e "4.  RED_HAWK${endc}";
 echo -e "5   Lazymux${endc}";
-echo -e "6.  Tools-X${endc}";
+echo -e "6.  Tools-X${endc}"; 
 echo -e "7.  Inurlbr${endc}";
 echo -e "8.  sqliv${endc}";
 echo -e "9.  D-tect${endc}";
@@ -66,7 +64,9 @@ echo -e "17. Nethunter-In-Termux${endc}";
 echo -e "18. hash-generator${endc}";
 echo -e "19. GreenReaper${endc}";
 echo -e "20. HackBox${endc}";
-echo -e "e. Exit${endc}";
+echo -e "21. D3C${endc}";
+echo -e "22. DarkFly-Tool${endc}";
+echo -e "23 . Exit${endc}";
 echo ""
 echo -e "╭─Mr.Vampire>#" |lolcat
 read -p "╰─#" pil;
@@ -318,7 +318,12 @@ echo -e "${y} DarkFly"
 cd /data/data/com.termux/files/GreenReaper/
 python /data/data/com.termux/files/DarkFly-Tool/DarkFly 
 
-e) exit
+;;
+
+23) exit
+
+;;
+
 *) echo "sorry, pilihan yang anda cari tidak ada"
 esac
 done
