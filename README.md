@@ -1,36 +1,30 @@
-# MsfDedsec
-DedSec Hacking tools Kali-Linux required orf blackarch
 
-##################################
-bienvenue sur l aide
- ____               __  ____
-/\  _`\            /\ \/\  _`\
-\ \ \/\ \     __   \_\ \ \,\L\_\     __    ___
- \ \ \ \ \  /'__`\ /'_` \/_\__ \   /'__`\ /'___\
-  \ \ \_\ \/\  __//\ \L\ \/\ \L\ \/\  __//\ \__/
-   \ \____/\ \____\ \___,_\ `\____\ \____\ \____\
-    \/___/  \/____/\/__,_ /\/_____/\/____/\/____/
+$$$$$$$\   $$$$$$\  $$$$$$$\  $$\   $$\        $$$$$$\  $$\   $$\ $$$$$$$\  $$\       $$$$$$\  $$$$$$\ $$$$$$$$\ 
+$$  __$$\ $$  __$$\ $$  __$$\ $$ | $$  |      $$ ___$$\ $$ |  $$ |$$  __$$\ $$ |     $$  __$$\ \_$$  _|\__$$  __|
+$$ |  $$ |$$ /  $$ |$$ |  $$ |$$ |$$  /       \_/   $$ |\$$\ $$  |$$ |  $$ |$$ |     $$ /  $$ |  $$ |     $$ |   
+$$ |  $$ |$$$$$$$$ |$$$$$$$  |$$$$$  /          $$$$$ /  \$$$$  / $$$$$$$  |$$ |     $$ |  $$ |  $$ |     $$ |   
+$$ |  $$ |$$  __$$ |$$  __$$< $$  $$<           \___$$\  $$  $$<  $$  ____/ $$ |     $$ |  $$ |  $$ |     $$ |   
+$$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |\$$\        $$\   $$ |$$  /\$$\ $$ |      $$ |     $$ |  $$ |  $$ |     $$ |   
+$$$$$$$  |$$ |  $$ |$$ |  $$ |$$ | \$$\       \$$$$$$  |$$ /  $$ |$$ |      $$$$$$$$\ $$$$$$  |$$$$$$\    $$ |   
+\_______/ \__|  \__|\__|  \__|\__|  \__|       \______/ \__|  \__|\__|      \________|\______/ \______|   \__|   
 
 
+____ _   _ ___  ____ ____ 
+|     \_/  |__] |___ |__/ 
+|___   |   |__] |___ |  \ 
+                           
 
-script Created By Davistar
-===============================
-step 1: Install MsfDedsec
-============================
-chmod +x install.sh
-./install.sh
+# FINDTOOLS
+# apt update && apt upgrade -y
+# apt install python
+# apt install python2
+# apt install lolcat 
+# apt install git
+# apt install bash
+# git clone https://github.com/GH05TM4N/FindTools
+# cd FindTools
+# bash FindTools.sh
 
-
-and run => msfDedsec.sh
-./msfDedsec.sh
-
-Thanks for Downloading
-check my github:https://github.com/VnomDavistar/
-check my youtube:
-https://www.youtube.com/channel/UCmRpdW8WVVA4o3nhPjMG3Bg/videos
-check  My instagram davistar16
-check My Twitter Davistar16
-
-
-
+# DAN INSTALL TOOLS YANG LAINNYA :V
+# OKE BOSQE
 
